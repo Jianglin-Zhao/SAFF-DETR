@@ -1,2 +1,2 @@
-# SAFF-DETR
-包含SAFF-DETR中两个关键组件MRF和CCSFF。/ Contains the two key components of SAFF-DETR, MRF and CCSFF.
+# SAFF-DETR: An End-to-end Object Detection Network for Remote Sensing Images with Targets of Varying Sizes Based on Scale Adaptation and Frequency Fusion
+This is an implementation of SAFF-DETR, containing two key components called MRF and CCSFF.
